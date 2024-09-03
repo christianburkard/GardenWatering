@@ -5,9 +5,9 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+Project Description
 
-Describe your project
+The Garden Watering system can be used to run 2 pumps idependently to water plants and trees. At each circuit, a humidity sensor is attached to recognize ground humidity. At specified lower humidity levels in the soil, the pumps start to dose for a specified amount of time.
 
 == Step 1: Installation
 Please describe the steps to install this project.
